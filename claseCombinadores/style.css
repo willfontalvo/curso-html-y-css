@@ -1,0 +1,19 @@
+/*combinador hermano cercano*/
+h2 + p{
+    color: rebeccapurple;
+}
+
+/*combinador hermano general*/
+h2 ~ p {
+    background-color:greenyellow;
+}
+
+/*combinador child*/
+div > p {
+    color: red;
+}
+
+/*descendiente*/
+div h2{
+    background-color: aquamarine;
+}

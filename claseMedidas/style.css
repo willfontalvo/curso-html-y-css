@@ -1,0 +1,35 @@
+html{
+    font-size: 62.5%;
+}
+
+main{
+    background-color: aquamarine;
+    width: 100%;
+    height: 100%;
+}
+
+p {
+    font-size: 18px;
+}
+
+.parrafoDos{
+    font-size: 50%;
+}
+/* EM*/
+.text-container{
+    font-size: 16px;
+}
+
+.text-container .text-container-p{
+    font-size: 1.5em;
+}
+
+/*REM*/
+article{
+    font-size: 1.6rem;
+}
+
+
+html {
+      font-size: 62.5%; 
+     }
