@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: antiquewhite;
+
+}
+
+html{
+    font-size: 62.5%;
+    width: 62.5%;
+    height: 62.5%;
+}
+
+.main-box{
+    width: 100%;
+    height: 42rem;
+}
+
+.figu-box{
+    display: inline-block;
+    width: 50rem;
+    height: 42rem;
+}
+
+.section{
+    width: 42rem;
+    height: 42rem;
+    display: inline-block;
+    position: absolute;
+    margin-top: 15rem;
+
+}
+
+.main-img{
+    display: inline-block;
+   width: 50rem;
+   height: 42rem;
+   margin-top: ;
+}
+
+.parrafoUno{
+    font-size: 3rem;
+    width: 12rem;
+    height: 6rem;
+    background-color: aquamarine;
+    border: 0.2rem black solid;
+    border-radius: 0.7rem;
+    padding: 0.8rem;
+    position:absolute;
+    margin-left: 5rem;
+}
+
+.parrafoDos{
+    font-size: 1.9rem;
+    width: 30rem;
+    height: 10rem;
+    background-color: blueviolet;
+    border-radius: 0.7rem;
+    border: black 0.2rem solid;
+    padding: 2rem;
+    margin: 5rem 2rem;
+ 
+}

@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.parent{
+    display: inline-block;
+    border: 0.2rem black dotted;
+}
+
+.box{
+    display: inline-block;
+    background-color: brown;
+    width:100px;
+    height: 100px;
+}
